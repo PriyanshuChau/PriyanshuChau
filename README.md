@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PriyanshuChau
+- 👋 Hi, I’m @PriyanshuChaudhary
 - 👀 I’m interested in ...python and web develepment.
 - 🌱 I’m currently learning ...BscIT lang.-python.
 - 💞️ I’m looking to collaborate on ...startup plans.
