@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyanshuChaudhary
-- 👀 I’m interested in ...python and web develepment.
-- 🌱 I’m currently learning ...BscIT lang.-python.
+- 👀 I’m interested in ...angular and web develepment.
+- 🌱 I’m currently learning ...BscIT lang.-angular.
 - 💞️ I’m looking to collaborate on ...startup plans.
 - 📫 How to reach me ...priyanshuc660@gmail.com
 
